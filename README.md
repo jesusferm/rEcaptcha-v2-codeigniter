@@ -1,7 +1,7 @@
 # Paginación en tablas, con ajax y codeigniter
 
-![alt tag](./assets/app/images/web.png)
-![alt tag](./assets/app/images/web1.png)
+![alt tag](./assets/app/images/web01.png)
+![alt tag](./assets/app/images/web02.png)
 ![alt tag](./assets/app/images/web2.png)
 
 ## Descripción
